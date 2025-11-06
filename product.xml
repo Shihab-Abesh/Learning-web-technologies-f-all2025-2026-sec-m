@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productTable>
+ 
+  <row >
+        <column>ID</column>
+        <column>NAME</column>
+        <column>UNIT PRICE</column>
+        <column>STOCK</column>
+        <column>STATUS</column>
+  </row>
+  <row >     
+        <column>11</column>
+        <column>SAMSUNG</column>
+        <column>35000</column>
+        <column>50</column>
+        <column>1</column>
+    </row>
+    <row >     
+        <column>20</column>
+        <column>HTC</column>
+        <column>65300</column>
+        <column>35</column>
+        <column>0</column>
+    </row>
+    <row >     
+        <column>23</column>
+        <column>NOKIA</column>
+        <column>25100</column>
+        <column>100</column>
+        <column>1</column>
+    </row>
+    </productTable>
